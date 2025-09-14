@@ -1,4 +1,0 @@
-otel:
-  resource:
-    attributes:
-      service.name: ${spring.application.name}
